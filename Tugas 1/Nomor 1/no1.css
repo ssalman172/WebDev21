@@ -1,0 +1,68 @@
+body {
+  margin: 0 20px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+}
+
+.box-wrapper {
+  display: block;
+  height: 50vh;
+}
+
+.box1 {
+  float: left;
+}
+
+.box2 {
+  float: left;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.bg-yellow {
+  background-color: yellow;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+.w-25 {
+  width: 25%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.h-55 {
+  height: 55%;
+}
+
+.h-45 {
+  height: 45%;
+}
+
+.h-100 {
+  height: 100%;
+}
